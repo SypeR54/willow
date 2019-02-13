@@ -26,7 +26,7 @@ CR_AIK=$CR_DIR/Helios/AIK-Linux
 CR_RAMDISK=$CR_DIR/Helios/Ramdisk
 CR_KERNEL=$CR_DIR/arch/arm/boot/zImage
 CR_CONFG=mehmet_defconfig
-CR_VARIANT=fatihVE_
+CR_VARIANT=eTAB4
 CR_ANDROID=4.4.2
 CR_ARCH=arm
 
